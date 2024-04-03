@@ -1,10 +1,15 @@
-- 👋 Xin chào, tôi là @matbiecc
-- 👀 Tôi quan tâm đến...
-- 🌱 Hiện tại mình đang học...
-- 💞️ Tôi đang muốn hợp tác trên ...
-- 📫 Làm sao để liên hệ với tôi...
+# TOKEN VC JOINER
+Locked or Valid token voice channel joiner via id
 
-<!---
-matbiecc/matbiecc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- you need to provide only token to *token.txt* file
+- start main.py and provide server and channel id for discord tokens
+- if u need help dm <a href="https://discord.com/users/931226381721952296">me on discord</a>
+
+## DO NOT SELL THIS !
+
+
+![image](https://user-images.githubusercontent.com/73886034/170103767-4bc00bb5-b498-40b2-b857-db45f7fe95e4.png)
+
+
+- Provide by machy under <a href="https://xwares.xyz/">XWARES</a>  
+
